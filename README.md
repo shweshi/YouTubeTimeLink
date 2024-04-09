@@ -10,7 +10,7 @@ npm install youtubetimelink --save
 
 # Usage
 
-```json
+```js
 const { generateLink } = require("youtube-time-link");
 
 const url = "   ";
