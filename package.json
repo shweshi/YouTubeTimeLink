@@ -1,0 +1,22 @@
+{
+  "name": "youtubetimelink",
+  "version": "0.0.2",
+  "description": "YouTube link generator with start time.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Shashi Prakash Gautam <contactmespg@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shweshi/YouTubeTimeLink.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shweshi/YouTubeTimeLink/issues"
+  },
+  "homepage": "https://github.com/shweshi/YouTubeTimeLink#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
